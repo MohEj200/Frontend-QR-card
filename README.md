@@ -1,0 +1,1 @@
+- My QR code component for Frontend Mentor challenge. 
