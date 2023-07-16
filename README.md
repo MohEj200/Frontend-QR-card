@@ -1,1 +1,2 @@
-- My QR code component for Frontend Mentor challenge. 
+- My QR code component for Frontend Mentor challenge.
+- https://mohej200.github.io/Frontend-QR-card/
