@@ -21,6 +21,12 @@
     Coded by <a href="#">Moh</a>.
     <a href="./fun.php">ph</a>
   </div></br>
+  <?php
+//write greeting function
+ function sayHi(){
+	echo "hello user";
+	}
+ sayHi();?>
 
   <div class="QR" style="background-color: antiquewhite; margin: auto;border-radius: 12px;padding: 12px; height: 400px;width: 250px;">
     <img src="./images/image-qr-code.png" style="width: 250px; height: 250px;margin: auto; border-radius: 10px;"/></br>
